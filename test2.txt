@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 22AB-2025
+
+ Directory of C:\Users\Adi\PycharmProjects\DjangoProject\venv\bookproject
+
+21/02/2019  12:49 PM    <DIR>          .
+21/02/2019  12:49 PM    <DIR>          ..
+30/12/2018  07:56 PM    <DIR>          bookapp
+25/12/2018  07:11 PM    <DIR>          bookproject
+25/12/2018  07:00 PM               558 manage.py
+21/02/2019  12:45 PM                77 README.md
+20/02/2019  12:44 PM               368 req.txt
+20/02/2019  02:53 PM               631 test1.txt
+21/02/2019  12:49 PM                 0 test2.txt
+               5 File(s)          1,634 bytes
+               4 Dir(s)   6,580,912,128 bytes free
